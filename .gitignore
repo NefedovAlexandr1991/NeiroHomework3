@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+.env
+Scripts/
+.gigaide/
+.idea/
+.venv/
+myenv/
+site-packages/
+pyvenv.cfg
